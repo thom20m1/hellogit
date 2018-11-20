@@ -12,6 +12,11 @@ namespace hellogit
         {
             Console.WriteLine("Hello GIT");
             Console.ReadLine(); //Borkborkbork
+
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("\ O.o /");
+            }
         }
     }
 }
