@@ -28,7 +28,7 @@ namespace hellogit
 
         static void Hello()
         {
-            Console.WriteLine("Hello!");
+            Console.WriteLine("Yolo!");
         }
     }
 }
