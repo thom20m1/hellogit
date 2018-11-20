@@ -20,8 +20,15 @@ namespace hellogit
 
             /// HAHAHAHHAHAHAHAHHAHAHAHAHHA
 
+            Hello();
+
             // stops the program from closing
             Console.ReadKey();
+        }
+
+        static void Hello()
+        {
+            Console.WriteLine("Hello!");
         }
     }
 }
