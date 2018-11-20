@@ -17,6 +17,9 @@ namespace hellogit
             {
                 Console.WriteLine("\\ O.o /");
             }
+
+            // stops the program from closing
+            Console.ReadKey();
         }
     }
 }
