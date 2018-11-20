@@ -15,7 +15,7 @@ namespace hellogit
 
             for (int i = 0; i < 10; i++)
             {
-                Console.WriteLine("\ O.o /");
+                Console.WriteLine("\\ O.o /");
             }
         }
     }
