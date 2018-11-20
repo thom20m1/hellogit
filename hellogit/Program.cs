@@ -18,6 +18,8 @@ namespace hellogit
                 Console.WriteLine("\\ O.o /");
             }
 
+            /// HAHAHAHHAHAHAHAHHAHAHAHAHHA
+
             // stops the program from closing
             Console.ReadKey();
         }
