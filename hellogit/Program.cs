@@ -13,6 +13,7 @@ namespace hellogit
             Console.WriteLine("Hello GIT");
             Console.WriteLine("Borgborgborg");
             Console.ReadLine();
+            Console.ReadLine(); //Borkborkbork
         }
     }
 }
